@@ -121,4 +121,8 @@ section header .toggle {
     padding: 1rem;
 }
 
-
+@media screen and (max-width: 600px) {
+    .content h2{
+        font-size: 1.8rem;
+    }
+}
